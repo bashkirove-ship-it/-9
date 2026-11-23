@@ -33,6 +33,3 @@ ax.set_ylabel("Количество событий")
 plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 plt.show()
-
-# Опционально: сохранить график в файл
-# plt.savefig("events_distribution.png", dpi=300)
